@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jiptka.github.io/sitemap/sitemap.xml
